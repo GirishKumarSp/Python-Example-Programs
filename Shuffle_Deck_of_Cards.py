@@ -13,3 +13,13 @@ random.shuffle(deck)
 print("You got:")
 for i in range(5):
    print(deck[i][0], "of", deck[i][1])
+"""
+Output
+
+You got:
+5 of Heart
+1 of Heart
+8 of Spade
+12 of Spade
+4 of Spade
+"""   
